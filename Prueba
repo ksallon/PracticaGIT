@@ -1,1 +1,10 @@
+
+Este comando es para descargar el master(Todo el repositorio)
+git clone https://github.com/ksallon/PracticaGIT.git
+
+
+git config --global user.email "you@example.com"
+  git config --global user.name "Tu Nombre"
+
+
 HOla
